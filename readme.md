@@ -1,4 +1,4 @@
-Funcionalidades:
+Funcionalidades do projeto:
 
 - Cadastrar um usuario (Cadastrar apenas com email que contenha @senac.)
 - Logar na aplicação com usuario cadastrado.
